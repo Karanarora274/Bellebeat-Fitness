@@ -376,7 +376,8 @@ Majority of the users sleep between 5 to 10 hours burns around 1500 to
 🎨 [Bellabeat Data Presentation in
 Tableau](https://public.tableau.com/app/profile/karan.arora8884/viz/Bellabeat-KaranArora/Story1)
 
-![https://imgur.com/5smm6MM.png]((https://public.tableau.com/app/profile/karan.arora8884/viz/Bellabeat-KaranArora/Story1))
+[![Content cannot be displayed for some reason](https://imgur.com/5smm6MM.png)](https://public.tableau.com/app/profile/karan.arora8884/viz/Bellabeat-KaranArora/Story1)
+
 
 ### 7. Act
 
